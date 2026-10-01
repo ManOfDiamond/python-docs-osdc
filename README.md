@@ -4,6 +4,10 @@ Learning material for OSDC's full-stack workshop.
 
 The guide builds Python fundamentals first and then connects them to backend development with FastAPI and a frontend-friendly API workflow.
 
+## Quick Reference
+
+Use the [Python and Full-Stack Cheatsheet](docs/cheatsheet.md) for a concise reference to the syntax, patterns, and commands covered throughout the workshop.
+
 ## Learning Path
 
 ### Python Foundations
@@ -36,6 +40,7 @@ The [Frontend Integration](docs/frontend_integration.md) module connects FastAPI
 python-docs-osdc/
 |-- README.md
 |-- docs/
+|   |-- cheatsheet.md
 |   |-- Introduction.md
 |   |-- data_types.md
 |   |-- input.md
