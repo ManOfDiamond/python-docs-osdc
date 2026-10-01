@@ -14,14 +14,17 @@ The guide builds Python fundamentals first and then connects them to backend dev
 4. [If-Else and Menu-Driven Programs](docs/if_else_menu_driven.md)
 5. [Loops](docs/Loops.md)
 6. [User-Defined Functions](docs/functions.md)
-7. [Object-Oriented Programming](docs/oops.md)
-8. [File Handling](docs/file_handling.md)
+7. [Libraries](docs/Libraries.md)
+8. [Object-Oriented Programming](docs/oops.md)
+9. [File Handling](docs/file_handling.md)
+10. [Python Compared with C](docs/C_vs_Python.md)
 
 ### Backend Development
 
-9. [FastAPI](docs/fastapi.md)
-10. [Demo API Walkthrough](docs/demo.md)
-11. [Frontend Integration](docs/frontend_integration.md)
+11. [APIs](docs/APIs.md)
+12. [FastAPI](docs/fastapi.md)
+13. [Demo API Walkthrough](docs/demo.md)
+14. [Frontend Integration](docs/frontend_integration.md)
 
 The [Demo API Walkthrough](docs/demo.md) uses the `demo-api` project to show how a Python client communicates with a FastAPI backend through HTTP requests and JSON responses.
 
@@ -39,8 +42,11 @@ python-docs-osdc/
 |   |-- if_else_menu_driven.md
 |   |-- Loops.md
 |   |-- functions.md
+|   |-- Libraries.md
 |   |-- oops.md
 |   |-- file_handling.md
+|   |-- C_vs_Python.md
+|   |-- APIs.md
 |   |-- fastapi.md
 |   |-- demo.md
 |   |-- frontend_integration.md
