@@ -8,6 +8,10 @@ The guide builds Python fundamentals first and then connects them to backend dev
 
 Use the [Python and Full-Stack Cheatsheet](docs/cheatsheet.md) for a concise reference to the syntax, patterns, and commands covered throughout the workshop.
 
+## Getting Started
+
+Read [Installing and Setting Up Python](docs/python_setup.md) before starting the modules. It includes installation steps for Windows, macOS, and Linux; PATH configuration; Microsoft Store aliases; editor-neutral terminal workflows; virtual environments; PowerShell execution policy; package installation; and troubleshooting. You can follow it with VS Code, Code::Blocks, Notepad, or no editor-specific setup at all.
+
 ## Learning Path
 
 ### Python Foundations
@@ -41,6 +45,7 @@ python-docs-osdc/
 |-- README.md
 |-- docs/
 |   |-- cheatsheet.md
+|   |-- python_setup.md
 |   |-- Introduction.md
 |   |-- data_types.md
 |   |-- input.md
